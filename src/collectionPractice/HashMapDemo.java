@@ -1,5 +1,6 @@
 package collectionPractice;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public class HashMapDemo {
@@ -12,15 +13,16 @@ public class HashMapDemo {
 		
 		System.out.println(hm);
 		
-		//Remove Element
-		hm.remove(102);
-		System.out.println(hm);
+//		//Remove Element
+//		hm.remove(102);
+//		System.out.println(hm);
+//		
+//		//Retrive ELEMENT
+//		System.out.println(hm.get(101));
+//		
+//		//Size of the map
+//		System.out.println(hm.size());
 		
-		//Retrive ELEMENT
-		System.out.println(hm.get(101));
-		
-		//Size of the map
-		System.out.println(hm.size());
 		
 		
 	}
