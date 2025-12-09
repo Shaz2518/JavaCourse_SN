@@ -27,6 +27,7 @@ public class CountOccurenceOfCharacter {
 		getOccurrence("madaM");
 		getOccurrence("test");
 		getOccurrence("aaabbbbccddddd");
+		getOccurrence("");
 	}
 
 }
