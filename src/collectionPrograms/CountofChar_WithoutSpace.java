@@ -5,7 +5,7 @@ import java.util.HashMap;
 public class CountofChar_WithoutSpace {
 
 	public static void getOccurrence(String str) {
-		String strNew = str.toLowerCase();
+		String strNew = str.toLowerCase(); //madaM
 		HashMap<Character, Integer> map = new HashMap<>();
 		char ch[] = strNew.toCharArray();
 		
