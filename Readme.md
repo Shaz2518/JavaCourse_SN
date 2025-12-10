@@ -47,14 +47,14 @@ By completing this course, I aimed to:
 
 ---
 
-🎉 Acknowledgment
+## 🎉 Acknowledgment
 
 Thanks to Swaroop Nadella for designing and delivering a clear, structured, and practical Core Java course on Udemy.
 
 
 ---
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
 Feel free to connect and collaborate!
 
