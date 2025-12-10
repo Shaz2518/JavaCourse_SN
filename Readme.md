@@ -1,8 +1,4 @@
-Here is the updated README.md with Course Completion and LinkedIn URL sections added.
-You can copy and paste directly.
 
-
----
 
 # Core Java – Udemy Course by Swaroop Nadella  
 A comprehensive repository documenting my learning journey and practice work from the **Core Java** course taught by **Swaroop Nadella** on Udemy.
