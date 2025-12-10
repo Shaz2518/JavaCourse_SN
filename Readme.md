@@ -26,6 +26,18 @@ By completing this course, I aim to:
 - Understand real-time coding patterns used in industry  
 - Prepare for interviews and higher-level Java frameworks (Spring, Hibernate)
 
+
 ---
 
-## 📂 Repository Structure
+## 🛠️ Tools & Technologies  
+- **Java 8+**  
+- **IntelliJ IDE/ Eclipse / VS Code** (any IDE)  
+- **JDK** installed and configured  
+- CLI / Terminal for compilation & execution  
+
+---
+
+## 🚀 How to Run the Programs  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Core-Java-Udemy.git
